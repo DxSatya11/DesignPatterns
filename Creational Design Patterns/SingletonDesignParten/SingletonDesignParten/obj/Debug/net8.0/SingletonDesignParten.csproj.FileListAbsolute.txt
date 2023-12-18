@@ -1,0 +1,14 @@
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\bin\Debug\net8.0\SingletonDesignParten.exe
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\bin\Debug\net8.0\SingletonDesignParten.deps.json
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\bin\Debug\net8.0\SingletonDesignParten.runtimeconfig.json
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\bin\Debug\net8.0\SingletonDesignParten.dll
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\bin\Debug\net8.0\SingletonDesignParten.pdb
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.AssemblyInfoInputs.cache
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.AssemblyInfo.cs
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.dll
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\refint\SingletonDesignParten.dll
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.pdb
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\SingletonDesignParten.genruntimeconfig.cache
+C:\DesignPatterns\Creational Design Patterns\SingletonDesignParten\SingletonDesignParten\obj\Debug\net8.0\ref\SingletonDesignParten.dll

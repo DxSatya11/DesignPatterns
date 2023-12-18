@@ -1,0 +1,14 @@
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\DesignPatterns\Creational Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

@@ -1,0 +1,14 @@
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.exe
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.deps.json
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.runtimeconfig.json
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.dll
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.dll
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\refint\PrototypeDesignPattern.dll
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.genruntimeconfig.cache
+C:\DesignPatterns\Creational Design Patterns\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net8.0\ref\PrototypeDesignPattern.dll
