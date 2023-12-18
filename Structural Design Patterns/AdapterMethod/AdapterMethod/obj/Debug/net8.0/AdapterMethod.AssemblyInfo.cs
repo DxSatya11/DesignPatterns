@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdapterMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f89d682a06ffdb6139ecb64a4112ac01069603bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdapterMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdapterMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

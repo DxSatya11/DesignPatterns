@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\bin\Debug\net8.0\AdapterMethod.exe
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\bin\Debug\net8.0\AdapterMethod.deps.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\bin\Debug\net8.0\AdapterMethod.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\bin\Debug\net8.0\AdapterMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\bin\Debug\net8.0\AdapterMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.sourcelink.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\refint\AdapterMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\AdapterMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\AdapterMethod\AdapterMethod\obj\Debug\net8.0\ref\AdapterMethod.dll
