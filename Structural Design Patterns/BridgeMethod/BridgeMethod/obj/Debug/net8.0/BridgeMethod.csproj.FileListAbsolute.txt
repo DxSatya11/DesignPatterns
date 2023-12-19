@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\bin\Debug\net8.0\BridgeMethod.exe
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\bin\Debug\net8.0\BridgeMethod.deps.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\bin\Debug\net8.0\BridgeMethod.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\bin\Debug\net8.0\BridgeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\bin\Debug\net8.0\BridgeMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.sourcelink.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\refint\BridgeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\BridgeMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\BridgeMethod\BridgeMethod\obj\Debug\net8.0\ref\BridgeMethod.dll
