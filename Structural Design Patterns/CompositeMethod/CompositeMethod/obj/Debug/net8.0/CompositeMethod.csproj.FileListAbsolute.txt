@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.sourcelink.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\bin\Debug\net8.0\CompositeMethod.exe
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\bin\Debug\net8.0\CompositeMethod.deps.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\bin\Debug\net8.0\CompositeMethod.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\bin\Debug\net8.0\CompositeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\bin\Debug\net8.0\CompositeMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\refint\CompositeMethod.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\CompositeMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\CompositeMethod\CompositeMethod\obj\Debug\net8.0\ref\CompositeMethod.dll

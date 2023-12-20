@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\Structural Design Patterns\DecoratorPattern\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
