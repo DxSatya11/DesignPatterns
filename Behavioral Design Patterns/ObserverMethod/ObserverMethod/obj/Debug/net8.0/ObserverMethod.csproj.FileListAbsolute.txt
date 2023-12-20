@@ -1,0 +1,15 @@
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\bin\Debug\net8.0\ObserverMethod.exe
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\bin\Debug\net8.0\ObserverMethod.deps.json
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\bin\Debug\net8.0\ObserverMethod.runtimeconfig.json
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\bin\Debug\net8.0\ObserverMethod.dll
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\bin\Debug\net8.0\ObserverMethod.pdb
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.AssemblyInfoInputs.cache
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.AssemblyInfo.cs
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.sourcelink.json
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.dll
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\refint\ObserverMethod.dll
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.pdb
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ObserverMethod.genruntimeconfig.cache
+C:\DesignPatterns\DesignPatterns\Behavioral Design Patterns\ObserverMethod\ObserverMethod\obj\Debug\net8.0\ref\ObserverMethod.dll
